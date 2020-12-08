@@ -66,6 +66,9 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 
 - [HackerNews](https://news.ycombinator.com/) - Hacker News is a social news website focusing on computer science and entrepreneurship.
 
+- [Let's Encrypt](https://letsencrypt.org/) - Let's Encrypt is a non-profit certificate authority run by Internet Security Research Group that provides X.509 certificates for Transport Layer Security encryption at no charge
+
+- [Pi-hole](https://github.com/pi-hole/pi-hole) - The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
 ## Generic Things
 
 - Walking
