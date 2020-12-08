@@ -30,6 +30,8 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 
 ## Internet Resources
 
+(some definitions are taken from other internet resources like Wikipedia)
+
 - [Linux](https://www.kernel.org/) - Linux is a clone of the operating system Unix, written from scratch by
   Linus Torvalds with assistance from a loosely-knit team of hackers across
   the Net
