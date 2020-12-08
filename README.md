@@ -4,9 +4,9 @@ A curated list for awesome Internet resources and generic things that are comple
 
 ## Why I have created this repo
 
-I've always desired to define a set of things that for me are not persuasives. We live in the era of massive home entertainment, we have to deal with systems equipped with artificial intelligence, we shared a lot of data in order to using free (like a free beer) social networks 
+I've always desired to define a set of things that for me are not persuasives. We live in the era of massive home entertainment, we have to deal with systems equipped with artificial intelligence, our monetary systems must run faster and faster.
 
-For those reasons I think it can be useful to have an overview of what is pure.
+I don't want to make unnecessary judgments about the system but I think it can be useful to have an overview of what is pure.
 
 But, what is pure? I have spent a lot of time trying to find the right definition of pure trying to find some points.
 
