@@ -59,8 +59,8 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 - Self Meditation
 - Running
 - A type of tourism as different as possible from mass tourism
-- Many opensource projects, not all
+- Many open-source projects, not all
 - Programming
 - Retrogaming
 - Using P2P networks
-- Buy second hand things better if not through websites
+- Buy second hand things (not through websites if it is possible)
