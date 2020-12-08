@@ -50,7 +50,7 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 
 - [OpenStreetMap](https://www.openstreetmap.org) - OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
 
-- [Stallman's Computing](https://stallman.org/stallman-computing.html) - Personal page of Richard Stallman where he describes his way to do computing
+- [Stallman's Computing](https://stallman.org/stallman-computing.html) - Personal page of Richard Stallman where he describes his way to do computing.
 
 
 ## Generic Things
