@@ -34,7 +34,7 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 
 - [GNU](https://www.gnu.org/) - GNU is an extensive collection of free software, which can be used as an operating system or can be used in parts with other operating systems.
 
-- [Wikipedia](https://it.wikipedia.org) - Wikipedia is an online encyclopedia with free content, collaborative, multilingual and free
+- [Wikipedia](https://it.wikipedia.org) - Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
 
 - [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) - Internet Relay Chat (IRC) is an application layer protocol that facilitates communication in the form of text.
 
