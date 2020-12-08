@@ -24,7 +24,7 @@ My starting list on these resources is not very large and I need a contribution 
 
 Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesome-Not-Persuasive-Or-Not-Very-Persuasive/blob/master/CONTRIBUTING.md).
 
-# List of Awesome Not Persuasive Or Not Very Persuasive Things
+# Awesome Not Persuasive Or Not Very Persuasive Things
 
 ## Internet Resources
 
