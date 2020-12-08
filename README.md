@@ -8,7 +8,7 @@ I've always desired to define a set of things that for me are not persuasives. W
 
 But, what is pure? I have spent a lot of time trying to find the right definition of pure trying to find some points.
 
-I think that the definition of pure, in relation of Internet resources and general things, is related the a low capacity to control people mind in order to increase dependence e aderence to a capitalistic money.
+I think that the definition of pure, in relation of Internet resources and general things, is related the a low capacity to control people mind in order to increase dependence e aderence to a capitalistic money system.
 
 I decided to divide things in three categories:
 
