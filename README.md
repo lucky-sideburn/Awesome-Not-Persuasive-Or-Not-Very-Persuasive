@@ -52,6 +52,13 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 
 - [Stallman's Computing](https://stallman.org/stallman-computing.html) - Personal page of Richard Stallman where he describes his way to do computing.
 
+- [Git](https://git-scm.com/) - Git is a distributed version-control system created by Linux Torvalds.
+
+- [GitHub](https://github.com) - GitHub, Inc. is a subsidiary of Microsoft which provides hosting for software development and version control using Git.
+
+- [TED](https://www.ted.com/talks) - TED Conferences LLC is an American media organization that posts talks online for free distribution under the slogan "ideas worth spreading".
+
+- [DuckDuckGo](https://duckduckgo.com/) - DuckDuckGo (also abbreviated as DDG) is an internet search engine that emphasizes protecting searchers' privacy.
 
 ## Generic Things
 
