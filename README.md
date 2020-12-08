@@ -64,6 +64,8 @@ Check out the [Contributing Guidelines](https://github.com/lucky-sideburn/Awesom
 
 - [DuckDuckGo](https://duckduckgo.com/) - DuckDuckGo (also abbreviated as DDG) is an internet search engine that emphasizes protecting searchers' privacy.
 
+- [HackerNews](https://news.ycombinator.com/) - Hacker News is a social news website focusing on computer science and entrepreneurship.
+
 ## Generic Things
 
 - Walking
